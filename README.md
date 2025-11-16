@@ -35,17 +35,6 @@ Handles basic banking operations.
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GundugolluMVALakshmi&show_icons=true&theme=tokyonight" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GundugolluMVALakshmi&layout=compact&theme=tokyonight" width="350"/>
-</p>
-
----
-
 ### 🌟 Let's Connect  
 - 💼 GitHub: **GundugolluMVALakshmi**  
 - 🌐 Currently building Project Portfolio  
@@ -53,4 +42,3 @@ Handles basic banking operations.
 
 ---
 
-⭐ **If you like my projects, give a star!**  
