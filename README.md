@@ -18,20 +18,19 @@
 - **Others:** REST APIs, CRUD Operations, Pydantic Models
 
 ---
+## 🚀 Featured Projects
 
-### 📌 Featured Projects
+### 🔹 StaffTrack API – FastAPI (CRUD, SQLAlchemy)
+A backend API for employee management with CRUD operations and modular routing.  
+👉 Code: StaffTrack-API
 
-#### 🔹 Employee Management System – FastAPI (CRUD)
-A clean backend project for managing employees.  
-👉 Code: `ems-fastapi` (See repository)
+### 🔹 CafeServe POS – Python (OOP, SQLite)
+A menu-driven café management system with inventory, billing, and user workflows.  
+👉 Code: CafeServe_POS
 
-#### 🔹 Cafe Management System – Python  
-A simple menu-driven Python project.  
-👉 Code: `Cafe-Management-System`
-
-#### 🔹 Banking Management System – Python  
-Handles basic banking operations.  
-👉 Code: `Digital_Banking_Management_System`
+### 🔹 ZenithBank OS – Python (OOP)
+A simple banking system supporting authentication, transactions, and audit logging.  
+👉 Code: ZenithBank_OS
 
 ---
 
