@@ -20,22 +20,26 @@
 ---
 ## 🚀 Featured Projects
 
-### 🔹 StaffTrack API – FastAPI (CRUD, SQLAlchemy)
-A backend API for employee management with CRUD operations and modular routing.  
-🔗 **Repo code - StaffTrack-API**
-⚙️ Tech: FastAPI, SQLAlchemy, SQLite, Pydantic  
-📌 Features: CRUD + modular routing + proper DB schema
+### 🔹 StaffTrack API — FastAPI (CRUD, SQLAlchemy)
+A backend API for employee management with modular routing, CRUD operations and relational DB schema.  
+🔗 Repo: **https://github.com/GundugolluMVALakshmi/StaffTrack-API**  
+⚙️ Tech Stack: FastAPI · SQLAlchemy · SQLite · Pydantic  
+📌 Features: CRUD · Modular routing · ORM models · Scalable folder structure
 
-### 🔹 CafeServe POS – Python (OOP, SQLite)  
-A POS system for café billing, inventory and order management.
-🔗  **Repo code - CafeServe_POS**  
-⚙️ Tech: Python, SQLite  
-📌 Highlights: OOP based design, PDF bill generation
+---
 
-### 🔹 ZenithBank OS – Python (OOP)
-Banking system with login, withdrawal, deposits, transaction history.
-🔗  **Repo code - ZenithBank_OS** 
-📌 Highlights: Secure authentication, logging & modular code
+### 🔹 CafeServe POS — Python (OOP, SQLite)
+A menu-driven POS system for café billing, inventory and order management.  
+🔗 Repo: **https://github.com/GundugolluMVALakshmi/CafeServe_POS**  
+⚙️ Tech Stack: Python · SQLite  
+📌 Highlights: OOP architecture · Inventory tracking · PDF bill generation
+
+---
+
+### 🔹 ZenithBank OS — Python (OOP)
+A banking OS simulation with authentication and secure fund transactions.  
+🔗 Repo: **https://github.com/GundugolluMVALakshmi/ZenithBank_OS**  
+📌 Highlights: Login system · Transaction history · Logging · Modular code
 
 ---
 
