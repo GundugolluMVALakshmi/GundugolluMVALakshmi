@@ -46,7 +46,6 @@ A banking OS simulation with authentication and secure fund transactions.
 ## 📈 Current Focus
 - Building **production-level FastAPI projects**
 - Strengthening **Data Structures & Algorithms**
-- Preparing for **system design basics**
 
 ---
 ### 🌟 Let's Connect  
